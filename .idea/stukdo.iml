@@ -32,6 +32,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v4.2.9, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.2.9, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.4, rbenv: 2.2.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="auto_html (v1.6.0, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.11, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.7.2, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, rbenv: 2.2.8) [gem]" level="application" />
@@ -77,7 +78,9 @@
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.10.2, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.10, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.3.0, rbenv: 2.2.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redcarpet (v2.3.0, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="responders (v2.4.0, rbenv: 2.2.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rinku (v1.5.1, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.5.1, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-listen (v4.0.0, rbenv: 2.2.8) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.6, rbenv: 2.2.8) [gem]" level="application" />
